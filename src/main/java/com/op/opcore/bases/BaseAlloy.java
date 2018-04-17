@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * 一个基本的合金类,可以作为一开始的合金来用
  */
-public class BaseAlloy extends BaseMaterials{
+public class BaseAlloy {
 //  合金的具体参数及其数值
     private static Map<String, BaseMaterials> parameter;
 //  合金所在的科技段
